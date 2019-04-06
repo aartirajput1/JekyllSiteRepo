@@ -15,7 +15,7 @@ ownCloud is a free and open-source file sharing server for creating and using fi
 ## Getting Started
 This quickstart guide will provide the user a concise step-based approach to the following user stories:
 
-* [Installing and configuring an Owncloud server](../_pages/adding)
+* [Installing and configuring an Owncloud server](../_pages/adding.html)
 * [Enabling users to connect to the Owncloud server using the server's IP address and port 8080]({{ site.baseurl }}/about/)
 * [Adding user accounts](https://github.com/gk7700/Quickstart/blob/master/index.md) 
 * [Connecting to the Owncloud server using desktop client](https://github.com/gk7700/connecting-to-an-ownCloud-Server-using-Desktop-Client/blob/master/index.md)
