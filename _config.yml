@@ -24,12 +24,7 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-  - jekyll-relative-links
 
-relative_links:
-  enabled:     true
-  collections: false
-  
 include: ['_pages']
   
   
