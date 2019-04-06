@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Desktop client"
-permalink: /_pages/UserStory1.markdown
 ---
 
 ## Connecting to an ownCloud server using Desktop client
