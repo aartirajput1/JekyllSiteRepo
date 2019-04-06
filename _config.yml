@@ -16,7 +16,7 @@
 title: ownCloud Server Installation Guide
 email: gk7700@example.com
 description: 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://github.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "JekyllSiteRepo"
 
 # Build settings
