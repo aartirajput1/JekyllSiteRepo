@@ -18,7 +18,7 @@ email: gk7700@example.com
 description: 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "JekyllSiteRepo"
-
+permalink: pretty
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
