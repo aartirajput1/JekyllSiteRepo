@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "user accounts"
-permalink: /desktop/
+permalink: /adding/
 ---
 ## Adding user accounts to ownCloud server
 
