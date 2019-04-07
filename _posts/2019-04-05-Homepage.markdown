@@ -20,7 +20,7 @@ This quickstart guide will provide the user a concise step-based approach to the
 * [Enabling users to connect to the Owncloud server using the server's IP address and port 8080](/about/)
 * [Adding user accounts]
   <a href="_posts/aa.md">Adding user accounts</a>
-* [Connecting to the Owncloud server using desktop client](https://github.com/gk7700/connecting-to-an-ownCloud-Server-using-Desktop-Client/blob/master/index.md)
+* [Connecting to the Owncloud server using desktop client](https://aartirajput1.github.io/JekyllSiteRepo/index)
 
 ## Full Documentation
 
