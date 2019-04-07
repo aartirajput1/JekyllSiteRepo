@@ -18,7 +18,7 @@ This quickstart guide will provide the user a concise step-based approach to the
 * [Installing and configuring an Owncloud server]({{ site.baseurl }}/adding)
 * [Enabling users to connect to the Owncloud server using the server's IP address and port 8080]({{ site.baseurl }}/about/)
 * [Adding user accounts]
-  <a href="../_pages/adding.html">Adding user accounts</a>
+  <a href="../_pages/adding.md">Adding user accounts</a>
 * [Connecting to the Owncloud server using desktop client](https://github.com/gk7700/connecting-to-an-ownCloud-Server-using-Desktop-Client/blob/master/index.md)
 
 ## Full Documentation
